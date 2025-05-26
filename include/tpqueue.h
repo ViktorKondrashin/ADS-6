@@ -4,7 +4,6 @@
 
 template<typename T>
 class TPQueue {
-  class TPQueue {
  public:
   TPQueue() = default;
   ~TPQueue() {
